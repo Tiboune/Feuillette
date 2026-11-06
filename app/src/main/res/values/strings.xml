@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feuillette</string>
+    <string name="hint_search">Ville, adresse, code postal…</string>
+    <string name="search">Chercher</string>
+    <string name="locate">📍 Autour de moi</string>
+    <string name="route">Itinéraire</string>
+    <string name="close">Fermer</string>
+</resources>
